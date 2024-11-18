@@ -21,4 +21,4 @@ async function waitForAllServices() {
 const orcherstrator = {
   waitForAllServices,
 };
-export default orcherstrator; 
+export default orcherstrator;
