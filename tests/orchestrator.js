@@ -25,6 +25,6 @@ async function clearDatabase() {
 
 const orcherstrator = {
   waitForAllServices,
-  clearDatabase
+  clearDatabase,
 };
 export default orcherstrator;
